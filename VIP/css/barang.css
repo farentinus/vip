@@ -1,0 +1,48 @@
+input{
+	border-radius: 4px;
+	box-shadow: 1px;
+}
+.table{
+	height: 290px;
+}
+.footersetting input{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #0099CC;
+}
+.footersetting {
+	margin-top: -30px;
+}
+.footerbarang input{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #0099CC;
+}
+.tablebarang tbody tr:nth-child(odd) {
+background:#BFC3C6;
+}
+.tablebarang{
+	cursor: pointer;
+}
+.footerlimit{
+	text-align: center;
+	margin-top: -25px;
+}
+.footerlimit input{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #0099CC;
+}
+.footerlimit1{
+	text-align: center;
+	margin-top: -55px;
+}
+.footerlimit1 input{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #0099CC;
+}
